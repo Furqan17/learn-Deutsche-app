@@ -1,2 +1,2 @@
 # learn Deutsche app
-App written using Java and XML 
+Android App written using Java and XML 
