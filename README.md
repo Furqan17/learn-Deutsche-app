@@ -1,6 +1,6 @@
 # learn Deutsche app
 Android App written in Java
 
-## ScreenShot
+## ScreenShots
 
 ![alt text](https://raw.githubusercontent.com/Furqan17/learn-Deutsche-app/master/Screenshots/home.png) 
