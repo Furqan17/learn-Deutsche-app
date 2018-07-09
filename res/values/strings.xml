@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">deutsche-learn</string>
+
+    <!-- Strings for Main Screen -->
+    <string name="title">Learn Deutsch</string>
+    <string name="under_title">Learn German on your Android Device!</string>
+    <string name="number">Numbers</string>
+    <string name="colors">Colours</string>
+    <string name="content_description">picture of a german flag</string>
+
+</resources>

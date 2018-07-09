@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/deutsche_learn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="0dp"
+        android:layout_marginTop="42dp"
+        android:fontFamily="cursive"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="@string/title"
+        android:textColor="@android:color/white"
+        android:textSize="84sp" />
+
+    <ImageView
+        android:id="@+id/german_flag"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:layout_below="@+id/deutsche_learn"
+        android:contentDescription="@string/content_description"
+        android:src="@drawable/germany" />
+
+    <TextView
+        android:id="@+id/fun_tag"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/german_flag"
+        android:layout_marginBottom="12dp"
+        android:layout_marginTop="0dp"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:padding="12dp"
+        android:text="@string/under_title"
+        android:textColor="@android:color/white"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/number_button"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/fun_tag"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="24dp"
+        android:fontFamily="sans-serif-light"
+        android:paddingBottom="16dp"
+        android:paddingLeft="48dp"
+        android:paddingRight="48dp"
+        android:paddingTop="16dp"
+        android:text="@string/number"
+        android:textColor="@android:color/holo_green_dark"
+        android:textSize="24sp"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/color_button"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/number_button"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="12dp"
+        android:fontFamily="sans-serif-light"
+        android:paddingBottom="16dp"
+        android:paddingLeft="48dp"
+        android:paddingRight="48dp"
+        android:paddingTop="16dp"
+        android:text="@string/colors"
+        android:textColor="@android:color/holo_green_dark"
+        android:textSize="24sp"
+        android:textStyle="bold"/>
+
+</RelativeLayout>
