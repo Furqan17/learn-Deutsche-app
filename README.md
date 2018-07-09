@@ -8,7 +8,7 @@ A simple and responsive Andriod app to help you learn basic German words.
 
 ## Build 
 
-Minimum SDK for app is 21 (5.0 Lollipop)  
+Minimum app SDK is 21 (app intended for 5.0 Lollipop or above)  
 This app was written in Java.   
 Build Version 1.0  
 
