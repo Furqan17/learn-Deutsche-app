@@ -1,5 +1,6 @@
 # learn Deutsche app
-Android App written using Java and XML 
+Android App written in Java
 
-## ScreenShots
+## ScreenShot
 
+![alt text](https://raw.githubusercontent.com/Furqan17/learn-Deutsche-app/master/Screenshots/home.png) 
