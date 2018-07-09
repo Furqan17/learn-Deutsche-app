@@ -1,5 +1,16 @@
-# learn Deutsche app
-Android App written in Java
+# Learn Deutsche app
+A simple and responsive Andriod app to help you learn basic German words.
+
+## Includes:
+
+* Number Page 
+* Colours Page
+
+## Build 
+
+Minimum SDK for app is 21 (5.0 Lollipop)  
+This app was written in Java.   
+Build Version 1.0  
 
 ## ScreenShots
 
