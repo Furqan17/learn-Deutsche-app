@@ -2,7 +2,7 @@
 A simple and responsive Andriod app to help you learn basic German words.
 
 ## Includes:
-
+* Landing Page
 * Number Page 
 * Colours Page
 
