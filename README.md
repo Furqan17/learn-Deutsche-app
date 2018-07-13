@@ -1,5 +1,5 @@
 # Learn Deutsche app
-A simple and responsive Andriod app to help you learn basic German words.
+A simple and responsive Andriod app to help you learn basic German :de: words.
 
 ## Includes:
 * Landing Page
