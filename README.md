@@ -2,9 +2,11 @@
 A simple and responsive Andriod app to help you learn basic German :de: words.
 
 ## Includes:
-* Landing Page
+* Start Screen
 * Number Page 
 * Colours Page
+
+_start screen built with relative layout_
 
 ## Build 
 
