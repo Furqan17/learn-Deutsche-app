@@ -6,8 +6,6 @@ A simple and responsive Andriod app to help you learn basic German :de: words.
 * Number Page 
 * Colours Page
 
-_start screen built with relative layout_
-
 ## Build 
 
 Minimum app SDK is 21 (app intended for 5.0 Lollipop or above)  
