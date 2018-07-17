@@ -1,4 +1,5 @@
 # Learn Deutsche app
+![img](https://img.shields.io/badge/platform-Android-brightgreen.svg) ![img](https://img.shields.io/badge/version-1.0.0-orange.svg)  
 A simple and responsive Andriod app to help you learn basic German :de: words.
 
 ## Includes:
@@ -9,8 +10,7 @@ A simple and responsive Andriod app to help you learn basic German :de: words.
 ## Build 
 
 Minimum app SDK is 21 (app intended for 5.0 Lollipop or above)  
-This app was written in Java.   
-Build Version 1.0  
+App written in Java using Android Studio.
 
 ## ScreenShots
 
