@@ -14,4 +14,8 @@ Build Version 1.0
 
 ## ScreenShots
 
+![img](https://raw.githubusercontent.com/Furqan17/learn-Deutsche-app/master/Screenshots/home-tp.png)  
+![img](https://raw.githubusercontent.com/Furqan17/learn-Deutsche-app/master/Screenshots/number-tp.png)  
+![img](https://raw.githubusercontent.com/Furqan17/learn-Deutsche-app/master/Screenshots/colours-tp.png)  
+
 
