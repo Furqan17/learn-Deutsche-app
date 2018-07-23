@@ -1,5 +1,5 @@
 # Learn Deutsche app
-[![alt text](https://img.shields.io/badge/platform-Android-brightgreen.svg)](https://www.android.com/) [![img](https://img.shields.io/badge/version-1.0.0-orange.svg)](https://github.com/Furqan17/learn-Deutsche-app)  
+[![alt text](https://img.shields.io/badge/platform-Android-brightgreen.svg)](https://www.android.com/) [![img](https://img.shields.io/badge/version-1.0.0-orange.svg)](https://github.com/Furqan17/learn-Deutsche-app/blob/master/AndroidManifest.xml)  
 A simple and responsive Andriod app to help you learn basic German :de: words.
 
 ## Includes:
