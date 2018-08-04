@@ -22,6 +22,6 @@ App written in Java using [Android Studio](https://developer.android.com/studio/
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Furqan17/learn-Deutsche-app/master/Screenshots/home-tp.png">
-  <img src="https://raw.githubusercontent.com/Furqan17/learn-Deutsche-app/master/Screenshots/home-tp.png">
-  <img src="https://raw.githubusercontent.com/Furqan17/learn-Deutsche-app/master/Screenshots/colours-tp.png>
+  <img src="https://raw.githubusercontent.com/Furqan17/learn-Deutsche-app/master/Screenshots/number-tp.png">
+  <img src="https://raw.githubusercontent.com/Furqan17/learn-Deutsche-app/master/Screenshots/colours-tp.png">
 </p>
