@@ -6,7 +6,7 @@
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-ff69b4.svg"></a>
 </p>
 
-<p align="center"> <b> A simple and responsive Andriod app to help you learn basic German :de: words. </b> </p>
+<p align="center"> <b> An Andriod app to help you learn basic German :de: words. </b> </p>
 
 ## Includes:
 * Start Screen
