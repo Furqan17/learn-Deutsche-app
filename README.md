@@ -8,11 +8,6 @@
 
 <p align="center"> <b> An Android app to help you learn basic German :de: words. </b> </p>
 
-## Includes:
-* Start Screen
-* Number Page 
-* Colours Page
-
 ## :wrench: Build 
 
 Minimum app **SDK is 21** *(app intended for 5.0 Lollipop or above)*  
