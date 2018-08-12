@@ -30,4 +30,4 @@ A list of components to *(eventually)* add to this app .
 * Save favourite words
   * Favourites page 
 * Translate page
-  * Top 50 most used German  words
+  * 50 most used German words
