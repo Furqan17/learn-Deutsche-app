@@ -21,7 +21,7 @@ App written in Java using [Android Studio](https://developer.android.com/studio/
   <img src="https://raw.githubusercontent.com/Furqan17/learn-Deutsche-app/master/Screenshots/colours-tp.png">
 </p>
 
-## :bangbang: Todo
+## :bangbang: To-Do
 A list of components to *(eventually)* add to this app .
 
 * Verbs
