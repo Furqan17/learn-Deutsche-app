@@ -22,4 +22,12 @@ App written in Java using [Android Studio](https://developer.android.com/studio/
 </p>
 
 ## :bangbang: Todo
-A list of components to add to this app *(eventually)*.
+A list of components to *(eventually)* add to this app .
+
+* Verbs
+  * das Präsens, das Präteritum, das Perfekt
+  * Sprechen, Haben, Sein etc.
+* Save favourite words
+  * Favourites page 
+* Translate page
+  * Top 50 most used German  words
