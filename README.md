@@ -31,3 +31,5 @@ A list of components to *(eventually)* add to this app .
   * Favourites page 
 * Translate page
   * 50 most used German words
+  
+## Relative Layout Issues
