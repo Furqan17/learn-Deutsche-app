@@ -32,4 +32,4 @@ A list of components to *(eventually)* add to this app .
 * Translate page
   * 50 most used German words
   
-## Relative Layout Issues
+## :iphone: Relative Layout Issues
