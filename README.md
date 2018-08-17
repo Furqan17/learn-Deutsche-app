@@ -21,7 +21,7 @@ App written in Java using [Android Studio](https://developer.android.com/studio/
   <img src="https://raw.githubusercontent.com/Furqan17/learn-Deutsche-app/master/Screenshots/colours-tp.png">
 </p>
 
-## :bangbang: To-Do
+## :exclamation: To-Do
 A list of components to *(eventually)* add to this app .
 
 * Verbs
@@ -33,3 +33,4 @@ A list of components to *(eventually)* add to this app .
   * 50 most used German words
   
 ## :iphone: Relative Layout Issues
+The home page of this app utilises a relative_layout instead of a linear_layout.
