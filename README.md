@@ -33,4 +33,4 @@ A list of components to *(eventually)* add to this app .
   * 50 most used German words
   
 ## :iphone: Relative Layout Issues
-The home page of this app utilises a relative_layout instead of a linear_layout.
+The home page of this app utilises a Relative Layout instead of a Linear or Constrait Layout. This might explain why the app takes a bit longer to open. A Linear layout would have been a better choice for this homepage as it would be much more efficient.
