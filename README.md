@@ -1,6 +1,6 @@
-![img](https://raw.githubusercontent.com/Furqan17/learn-Deutsche-app/master/logo-src/learndeutsch-logo.png)   
+# Learn Deutsch 
 
-<p align="center">
+<p align="left">
   <a href="https://www.android.com/"><img src="https://img.shields.io/badge/platform-Android-brightgreen.svg"></a>
   <a href="https://github.com/Furqan17/learn-Deutsche-app/blob/master/AndroidManifest.xml"><img src="https://img.shields.io/badge/version-1.0.0-orange.svg"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-ff69b4.svg"></a>
