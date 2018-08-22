@@ -10,7 +10,7 @@
 
 ## :wrench: Build 
 
-Minimum app **SDK is 21** *(app intended for 5.0 Lollipop or above)*  
+Minimum app SDK is **21** *(app intended for 5.0 Lollipop or above)*  
 App written in Java using [Android Studio](https://developer.android.com/studio/).
 
 ## :camera: ScreenShots
@@ -36,3 +36,7 @@ A list of components to *(eventually)* add to this app .
 The home page of this app utilises a `RelativeLayout` instead of a Linear or Constrait Layout. This might explain why the app takes a bit longer to open. A `LinearLayout` would have been a better choice for this homepage as it would be much more efficient.
 
 The code below shows the relative layout from the `activity_main.xml` file.
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Furqan17/learn-Deutsche-app/master/Screenshots/code-src/relative_layout.png">
+</p>
