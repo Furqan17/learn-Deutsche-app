@@ -33,10 +33,12 @@ A list of components to *(eventually)* add to this app .
   * 50 most used German words
   
 ## :iphone: Relative Layout Issues
-The home page of this app utilises a `RelativeLayout` instead of a Linear or Constrait Layout. This might explain why the app takes a bit longer to open. A `LinearLayout` would have been a better choice for this homepage as it would be much more efficient.
+The home page of this app utilises a `RelativeLayout` instead of a Linear or Constrait Layout. This might explain why the app takes a bit longer to open. A `LinearLayout` would have been a better choice for **this specific homepage** as it would be much more efficient.
 
 The code below shows the relative layout from the `activity_main.xml` file.
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Furqan17/learn-Deutsche-app/master/Screenshots/code-src/relative_layout.png">
 </p>
+
+Also, alot of the attributes such as `android:Padding, textColor, textSize, textStyle` could be grouped in `styles.xml`
