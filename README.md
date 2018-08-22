@@ -6,7 +6,7 @@
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-ff69b4.svg"></a>
 </p>
 
-<p align="left"> <b> An Android app to help you learn basic German :de: words. </b> </p>
+<p align="left"> <b> Learn Deutsch is an Android app designed to help you learn basic German :de: words. </b> </p>
 
 ## :wrench: Build 
 
