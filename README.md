@@ -13,7 +13,7 @@
 Minimum app SDK is **21** *(app intended for 5.0 Lollipop or above)*  
 App written in Java using [Android Studio](https://developer.android.com/studio/).
 
-## :camera: ScreenShots
+## :camera: Screenshots
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Furqan17/learn-Deutsche-app/master/Screenshots/home-tp.png">
