@@ -22,7 +22,7 @@ App written in Java using [Android Studio](https://developer.android.com/studio/
 </p>
 
 ## :exclamation: To-Do
-A list of components to *(eventually)* add to this app .
+A list of components to *(eventually)* add to this app.
 
 * Verbs
   * das Präsens, das Präteritum, das Perfekt
@@ -41,4 +41,4 @@ The code below shows the relative layout from the `activity_main.xml` file.
   <img src="https://raw.githubusercontent.com/Furqan17/learn-Deutsche-app/master/Screenshots/code-src/relative_layout.png">
 </p>
 
-Also, alot of the attributes such as `android:Padding, textColor, textSize, textStyle` could be grouped in `styles.xml`
+Also, alot of the attributes such as android:Padding, textColor, textSize, textStyle could be grouped into `styles.xml`
