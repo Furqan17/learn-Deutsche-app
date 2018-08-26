@@ -35,7 +35,7 @@ A list of components to *(eventually)* add to this app.
 ## :iphone: Relative Layout Issues
 The home page of this app utilises a `RelativeLayout` instead of a Linear or Constrait Layout. This might explain why the app takes a bit longer to open. A `LinearLayout` would have been a better choice for **this specific homepage** as it would be much more efficient.
 
-The code below shows the relative layout from the `activity_main.xml` file.
+The code below shows the relative layout from `activity_main.xml`
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Furqan17/learn-Deutsche-app/master/Screenshots/code-src/relative_layout.png">
