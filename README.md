@@ -20,17 +20,6 @@ App written in Java using [Android Studio](https://developer.android.com/studio/
   <img src="https://raw.githubusercontent.com/Furqan17/learn-Deutsche-app/master/Screenshots/number-tp.png">
   <img src="https://raw.githubusercontent.com/Furqan17/learn-Deutsche-app/master/Screenshots/colours-tp.png">
 </p>
-
-## :exclamation: To-Do
-A list of components to *(eventually)* add to this app.
-
-* Verbs
-  * das Präsens, das Präteritum, das Perfekt
-  * Sprechen, Haben, Sein etc.
-* Save favourite words
-  * Favourites page 
-* Translate page
-  * 50 most used German words
   
 ## :iphone: Relative Layout Issues
 The home page of this app utilises a `RelativeLayout` instead of a Linear or Constrait Layout. This *might* explain why the app is a bit slow. A `LinearLayout` would have been a better choice for **this specific homepage** as it would be much more efficient.
@@ -42,3 +31,14 @@ The code below shows the relative layout from `activity_main.xml`
 </p>
 
 Also, alot of the attributes such as android:Padding, textColor, textSize, textStyle could be grouped into components and placed in `styles.xml`
+
+## :exclamation: To-Do
+A list of components to *(eventually)* add to this app.
+
+* Verbs
+  * das Präsens, das Präteritum, das Perfekt
+  * Sprechen, Haben, Sein etc.
+* Save favourite words
+  * Favourites page 
+* Translate page
+  * 50 most used German words
