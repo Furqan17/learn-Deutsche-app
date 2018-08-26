@@ -41,4 +41,4 @@ The code below shows the relative layout from `activity_main.xml`
   <img src="https://raw.githubusercontent.com/Furqan17/learn-Deutsche-app/master/Screenshots/code-src/relative_layout.png">
 </p>
 
-Also, alot of the attributes such as android:Padding, textColor, textSize, textStyle could be grouped into `styles.xml`
+Also, alot of the attributes such as android:Padding, textColor, textSize, textStyle could be grouped into components and placed in `styles.xml`
