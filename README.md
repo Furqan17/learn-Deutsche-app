@@ -32,7 +32,7 @@ The code below shows the relative layout from `activity_main.xml`
 
 Also, alot of the attributes such as android:Padding, textColor, textSize, textStyle could be grouped into components and placed in `styles.xml`
 
-## :exclamation: To-Do
+## :exclamation: To-Do List
 A list of components to *(eventually)* add to this app.
 
 * Verbs
