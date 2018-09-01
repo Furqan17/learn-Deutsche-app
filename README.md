@@ -8,7 +8,7 @@
 
 <p align="left"> <b> Learn Deutsch is an Android app designed to help you learn basic German :de: words. </b> </p>
 
-## :wrench: Build 
+## :zap: Build 
 
 Minimum app SDK is **21** *(app intended for 5.0 Lollipop or above)*  
 App written in Java using [Android Studio](https://developer.android.com/studio/).
@@ -21,7 +21,7 @@ App written in Java using [Android Studio](https://developer.android.com/studio/
   <img src="https://raw.githubusercontent.com/Furqan17/learn-Deutsche-app/master/Screenshots/colours-tp.png">
 </p>
   
-## :iphone: Relative Layout Issues
+## :wrench: Relative Layout Issues
 The home page of this app utilises a `RelativeLayout` instead of a Linear or Constrait Layout. This *might* explain why the app is a bit slow. A `LinearLayout` would have been a better choice for **this specific homepage** as it would be much more efficient.
 
 The code below shows the relative layout from `activity_main.xml`
