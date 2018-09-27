@@ -45,5 +45,4 @@ A list of components to *(eventually)* add to this app.
   
 <p align="center"> ...
     <br>2018 <strong>Furqan17</strong>
-    <br> Licensed under the <a href="https://github.com/Furqan17/crypto-desk/blob/master/LICENSE">MIT License</a>
 </p>
