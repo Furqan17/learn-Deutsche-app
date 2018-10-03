@@ -44,5 +44,5 @@ A list of components to *(eventually)* add to this app.
   * 50 most used German words
   
 <p align="center"> ...
-    <br>2018 <strong>Furqan17</strong>
+  <br>2018 <a href="https://github.com/Furqan17"><strong>Furqan17</strong></a>
 </p>
