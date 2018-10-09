@@ -13,5 +13,5 @@ Pull requests are the best way to propose changes to the codebase.
 
 **1.** Fork the repo.  
 **2.** Make changes to the repository (document the changes)  
-**3.** Create a pull request with a meaningful title.  
+**3.** Create a [pull request](https://github.com/Furqan17/learn-Deutsche-app/pulls) with a meaningful title.  
 **4.** Issue that pull request!  
