@@ -33,7 +33,7 @@ public class NumbersActivity extends AppCompatActivity {
         words.add(new Word("thirteen", "Dreizehn"));
         words.add(new Word("fourteen", "Vierzehn"));
         words.add(new Word("fifteen", "Fünfzehn"));
-        words.add(new Word("sixteen", "Sechszehn"));
+        words.add(new Word("sixteen", "Sechzehn"));
         words.add(new Word("seventeen", "Siebzehn"));
         words.add(new Word("eighteen", "Achtzehn"));
         words.add(new Word("nineteen", "Neunzehn"));
